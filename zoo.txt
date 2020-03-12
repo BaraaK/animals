@@ -1,4 +1,5 @@
 Elephant
 Monkey
 Penguin
-
+Giraffe
+Wolf
